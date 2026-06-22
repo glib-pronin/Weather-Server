@@ -204,7 +204,7 @@ python manage.py runserver
 ## 9. Клієнтська частина
 
 Frontend застосунок реалізований окремо за допомогою Flet:
-[Репозиторій клієнта](https://github.com/glib-pronin/Weather-Client)
+[Weather-Client](https://github.com/glib-pronin/Weather-Client)
 
 ---
 ## 10. Розробник
